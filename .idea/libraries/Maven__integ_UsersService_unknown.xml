@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: integ:UsersService:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/UsersService/unknown/UsersService-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/UsersService/unknown/UsersService-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/UsersService/unknown/UsersService-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

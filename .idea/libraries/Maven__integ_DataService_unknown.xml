@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: integ:DataService:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/DataService/unknown/DataService-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/DataService/unknown/DataService-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/integ/DataService/unknown/DataService-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

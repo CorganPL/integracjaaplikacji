@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AdministrationService" />
+        <module name="Client" />
+        <module name="DataService" />
+        <module name="UsersService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="administration" target="1.8" />
+      <module name="AdministrationService" target="1.8" />
+      <module name="Client" target="1.8" />
+      <module name="DataService" target="1.8" />
+      <module name="integ" target="1.8" />
+      <module name="integracja-projekt" target="1.8" />
+      <module name="UsersService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
